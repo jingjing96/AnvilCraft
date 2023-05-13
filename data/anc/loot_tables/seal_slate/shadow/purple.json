@@ -92,6 +92,18 @@
                             }
                         }
                     ]
+                },
+                {
+                    "type": "item",
+                    "name": "enchanted_book",
+                    "functions": [
+                        {
+                            "function": "set_enchantments",
+                            "enchantments": {
+                                "swift_sneak":4
+                            }
+                        }
+                    ]
                 }
             ]
         }
